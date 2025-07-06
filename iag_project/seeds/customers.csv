@@ -1,0 +1,1001 @@
+customer_id,risk_segment,region,acquisition_channel,loyalty_score
+120,Medium,NSW,In-Branch,62
+105,Medium,SA,Digital,85
+183,Low,SA,Call Centre,10
+114,Low,QLD,Call Centre,19
+146,Medium,WA,In-Branch,80
+175,High,QLD,Digital,62
+146,High,QLD,In-Branch,28
+107,High,QLD,Call Centre,38
+105,High,QLD,Call Centre,16
+118,Low,SA,Digital,40
+120,High,WA,In-Branch,2
+108,High,SA,Digital,12
+117,High,VIC,Digital,66
+157,Low,VIC,In-Branch,16
+135,Low,VIC,Digital,85
+153,Low,NSW,In-Branch,39
+195,High,WA,In-Branch,9
+196,High,SA,Digital,25
+118,Medium,WA,Digital,48
+196,Low,VIC,Digital,78
+165,Low,SA,Call Centre,77
+152,Medium,NSW,Call Centre,50
+159,Medium,QLD,In-Branch,46
+156,High,SA,Digital,9
+117,Low,NSW,Digital,62
+139,High,SA,Digital,90
+183,High,SA,Call Centre,83
+131,Low,WA,Digital,7
+142,Medium,QLD,In-Branch,77
+107,Low,VIC,Call Centre,13
+194,Low,WA,Call Centre,26
+168,Low,NSW,In-Branch,66
+166,High,NSW,Call Centre,76
+159,Low,VIC,In-Branch,10
+165,Low,VIC,In-Branch,55
+138,Low,QLD,Call Centre,1
+100,Medium,QLD,Digital,71
+112,High,WA,In-Branch,49
+153,High,QLD,Digital,13
+146,Medium,VIC,Digital,84
+133,Medium,VIC,Call Centre,77
+189,Low,QLD,In-Branch,43
+139,Low,NSW,Call Centre,97
+186,Medium,SA,Call Centre,87
+113,Low,WA,Call Centre,50
+107,Low,WA,In-Branch,92
+101,Low,SA,Digital,35
+134,Low,WA,Digital,55
+119,High,QLD,Call Centre,52
+171,Medium,VIC,In-Branch,99
+122,Medium,QLD,Call Centre,26
+131,High,QLD,Call Centre,15
+134,Medium,VIC,In-Branch,41
+139,High,SA,Digital,49
+192,Low,SA,Call Centre,25
+109,High,SA,Digital,96
+194,Medium,SA,In-Branch,92
+107,High,SA,In-Branch,9
+123,Low,VIC,In-Branch,43
+134,Low,QLD,Digital,65
+138,Medium,QLD,Digital,41
+173,Medium,SA,Call Centre,17
+171,High,WA,Digital,36
+123,Low,SA,Call Centre,31
+100,High,QLD,Call Centre,8
+143,Medium,QLD,Call Centre,75
+140,High,QLD,Call Centre,75
+160,Medium,NSW,In-Branch,47
+138,High,QLD,In-Branch,81
+178,Medium,VIC,Call Centre,61
+137,Low,WA,Call Centre,51
+151,Medium,SA,Call Centre,69
+174,High,NSW,Digital,65
+164,Low,WA,Digital,78
+194,Medium,SA,Digital,8
+149,High,NSW,Digital,2
+123,High,NSW,In-Branch,80
+186,Medium,WA,Digital,19
+177,Medium,WA,Digital,56
+129,Low,QLD,Digital,21
+129,Medium,SA,In-Branch,47
+129,Medium,SA,Digital,48
+169,Medium,VIC,Call Centre,95
+159,High,WA,In-Branch,73
+119,Low,NSW,In-Branch,70
+100,Low,SA,In-Branch,32
+101,High,WA,In-Branch,65
+185,Medium,VIC,Call Centre,43
+135,High,NSW,Digital,51
+187,High,QLD,Call Centre,93
+189,Medium,WA,Digital,28
+162,High,VIC,Call Centre,94
+128,Medium,WA,Digital,70
+186,High,WA,Call Centre,97
+113,Low,QLD,Digital,64
+104,High,WA,Call Centre,57
+145,High,WA,In-Branch,53
+190,High,NSW,In-Branch,20
+131,Medium,SA,Call Centre,61
+191,Low,QLD,Call Centre,97
+143,Medium,QLD,In-Branch,65
+150,High,VIC,Digital,82
+112,High,VIC,Call Centre,79
+141,High,SA,Digital,57
+190,Medium,NSW,Call Centre,18
+178,Medium,NSW,Digital,33
+158,High,NSW,In-Branch,66
+160,High,QLD,Call Centre,1
+154,High,NSW,Call Centre,91
+181,High,WA,Digital,79
+182,Low,NSW,Call Centre,4
+187,Medium,NSW,In-Branch,35
+106,High,QLD,Call Centre,75
+160,Low,QLD,Digital,3
+129,Low,WA,In-Branch,11
+160,Low,WA,Call Centre,91
+144,Low,NSW,Call Centre,94
+146,Medium,WA,In-Branch,53
+118,Medium,VIC,Call Centre,41
+191,Medium,SA,Call Centre,30
+134,High,VIC,Digital,14
+160,High,WA,Digital,14
+133,Medium,QLD,In-Branch,48
+102,Medium,WA,Call Centre,7
+171,High,NSW,Call Centre,90
+189,Medium,QLD,In-Branch,81
+164,Medium,VIC,Digital,96
+194,Medium,WA,In-Branch,92
+128,Medium,QLD,Digital,54
+118,High,NSW,Digital,95
+192,Low,NSW,In-Branch,97
+115,Low,NSW,In-Branch,66
+189,Low,NSW,Digital,12
+127,Low,WA,Call Centre,54
+193,High,WA,In-Branch,44
+127,High,QLD,Digital,46
+107,Medium,QLD,Call Centre,68
+142,High,NSW,Digital,27
+136,Low,VIC,In-Branch,82
+182,Low,WA,In-Branch,86
+133,Low,SA,Digital,31
+169,Medium,WA,Digital,44
+160,Medium,NSW,Call Centre,92
+193,High,NSW,In-Branch,0
+179,Low,NSW,Digital,10
+194,Medium,VIC,In-Branch,73
+178,High,QLD,In-Branch,22
+171,High,SA,Call Centre,57
+181,Low,NSW,In-Branch,6
+106,High,WA,Call Centre,80
+194,Medium,VIC,In-Branch,52
+100,Medium,SA,Digital,82
+190,Medium,VIC,In-Branch,36
+111,Low,QLD,Digital,71
+156,Low,NSW,Call Centre,76
+108,Medium,WA,In-Branch,43
+192,High,NSW,In-Branch,2
+151,High,SA,Call Centre,5
+181,Low,SA,Call Centre,40
+137,Low,SA,Digital,97
+136,High,QLD,Digital,49
+138,Low,QLD,In-Branch,11
+167,Low,SA,In-Branch,63
+164,High,QLD,Digital,10
+105,Low,QLD,Call Centre,10
+121,Medium,SA,Digital,40
+152,Low,WA,Call Centre,35
+158,Low,VIC,In-Branch,12
+176,High,QLD,Digital,41
+183,Medium,SA,In-Branch,55
+142,High,WA,Digital,35
+106,Low,QLD,In-Branch,75
+100,Medium,VIC,Digital,91
+188,High,WA,Call Centre,16
+112,Low,WA,Digital,0
+155,Low,VIC,Call Centre,28
+190,High,SA,In-Branch,48
+163,Medium,VIC,Digital,76
+159,Medium,VIC,Call Centre,23
+174,Low,SA,Call Centre,38
+134,Medium,SA,Call Centre,34
+186,Low,NSW,In-Branch,1
+150,Medium,WA,Call Centre,58
+157,Low,WA,Digital,56
+178,Low,SA,In-Branch,46
+132,Low,NSW,Call Centre,3
+191,Low,VIC,Call Centre,40
+163,Low,VIC,Digital,12
+124,High,QLD,Call Centre,21
+131,Medium,WA,In-Branch,64
+176,High,VIC,Digital,59
+167,Medium,NSW,In-Branch,19
+190,Low,WA,Digital,96
+148,Medium,SA,In-Branch,45
+187,High,NSW,In-Branch,0
+158,Low,VIC,In-Branch,18
+164,High,WA,Digital,63
+110,High,VIC,In-Branch,55
+129,Medium,QLD,Call Centre,81
+133,High,VIC,Call Centre,25
+127,High,SA,In-Branch,49
+121,Low,VIC,In-Branch,5
+194,High,SA,Digital,8
+179,Low,NSW,Call Centre,66
+172,High,VIC,Call Centre,71
+123,Medium,NSW,Call Centre,58
+135,Medium,QLD,In-Branch,33
+154,Low,NSW,Call Centre,22
+151,Medium,QLD,Digital,9
+150,High,VIC,Digital,83
+124,High,WA,In-Branch,54
+126,Medium,VIC,In-Branch,98
+128,Medium,SA,Call Centre,82
+178,High,VIC,In-Branch,69
+178,Medium,WA,Digital,71
+184,High,VIC,Digital,82
+146,Medium,WA,Digital,9
+138,High,VIC,Call Centre,80
+167,Low,SA,Digital,1
+115,Medium,SA,In-Branch,94
+123,High,NSW,Digital,89
+161,Low,SA,Call Centre,37
+188,Low,VIC,Call Centre,56
+181,Medium,QLD,Call Centre,61
+194,High,WA,In-Branch,54
+181,High,WA,Digital,77
+117,High,NSW,In-Branch,89
+158,Low,VIC,Call Centre,31
+138,High,SA,Digital,68
+151,High,WA,Digital,98
+180,High,WA,Digital,72
+147,Low,WA,In-Branch,0
+110,Medium,QLD,Call Centre,11
+105,Medium,QLD,In-Branch,17
+166,Low,QLD,Call Centre,41
+114,Low,NSW,In-Branch,39
+152,Medium,NSW,In-Branch,53
+164,High,NSW,In-Branch,11
+129,High,VIC,In-Branch,93
+120,Medium,NSW,Call Centre,33
+169,High,QLD,In-Branch,61
+103,Low,VIC,Digital,37
+174,High,VIC,Digital,47
+178,Medium,NSW,In-Branch,17
+105,High,VIC,Call Centre,38
+122,Low,QLD,Call Centre,89
+167,Medium,QLD,Digital,70
+112,High,QLD,In-Branch,42
+100,High,SA,In-Branch,40
+132,Medium,QLD,In-Branch,86
+138,High,NSW,In-Branch,2
+168,High,NSW,Call Centre,36
+188,Medium,WA,Digital,18
+194,High,WA,Digital,92
+140,Low,QLD,Digital,66
+168,Low,VIC,Call Centre,1
+110,Low,QLD,Digital,82
+192,High,NSW,Call Centre,18
+129,High,VIC,Call Centre,2
+116,Low,VIC,Call Centre,20
+184,Medium,NSW,Call Centre,79
+116,Low,VIC,Call Centre,27
+175,Low,SA,In-Branch,58
+184,Medium,WA,Digital,87
+109,High,WA,Call Centre,73
+121,Low,VIC,Digital,51
+182,Low,VIC,Digital,84
+178,Low,VIC,Call Centre,72
+155,Low,WA,In-Branch,26
+127,Medium,QLD,Digital,68
+141,Low,QLD,Digital,35
+173,Low,QLD,In-Branch,9
+135,Medium,WA,In-Branch,10
+163,Medium,WA,Digital,24
+183,Medium,QLD,In-Branch,41
+158,Medium,SA,Call Centre,82
+110,High,SA,Digital,81
+153,High,NSW,In-Branch,26
+164,High,SA,Call Centre,35
+122,Low,NSW,In-Branch,20
+143,Medium,WA,Digital,88
+172,Low,SA,Digital,41
+175,Medium,WA,Digital,67
+193,High,SA,Call Centre,31
+128,High,NSW,Digital,30
+152,Medium,WA,In-Branch,57
+100,Medium,QLD,Call Centre,69
+165,Medium,WA,Digital,22
+181,Low,NSW,Call Centre,93
+112,High,QLD,In-Branch,54
+144,Medium,WA,Digital,56
+195,Medium,QLD,Call Centre,93
+151,Low,VIC,In-Branch,55
+199,Low,NSW,Digital,5
+110,High,SA,In-Branch,55
+160,High,WA,Call Centre,45
+144,Low,QLD,In-Branch,44
+119,Low,WA,Digital,76
+161,Medium,VIC,Call Centre,48
+150,Low,NSW,Call Centre,44
+158,Medium,QLD,In-Branch,72
+160,Low,WA,Call Centre,78
+119,Low,WA,In-Branch,52
+173,Low,WA,Call Centre,18
+113,Low,NSW,Digital,93
+178,High,QLD,Digital,38
+169,High,WA,Digital,26
+158,High,QLD,Digital,82
+183,Low,WA,Call Centre,10
+143,High,QLD,Digital,89
+197,Low,WA,Call Centre,2
+136,High,SA,Call Centre,55
+199,High,NSW,Call Centre,94
+130,High,WA,Call Centre,98
+156,Medium,VIC,In-Branch,25
+100,Low,QLD,Digital,6
+129,Low,QLD,In-Branch,34
+197,High,NSW,In-Branch,67
+111,Medium,NSW,Call Centre,12
+149,Low,SA,Digital,16
+142,Low,QLD,In-Branch,20
+105,High,VIC,Call Centre,33
+109,High,QLD,Digital,75
+127,Medium,SA,In-Branch,28
+146,Medium,SA,Digital,89
+143,Low,WA,Call Centre,19
+115,High,VIC,Digital,92
+163,Medium,SA,Digital,42
+135,High,SA,In-Branch,54
+110,Medium,SA,Digital,30
+107,High,SA,In-Branch,52
+114,High,QLD,In-Branch,75
+180,Low,NSW,Digital,76
+135,High,SA,In-Branch,32
+110,Medium,WA,Digital,27
+106,Medium,QLD,Digital,44
+127,Medium,VIC,In-Branch,47
+122,High,NSW,Call Centre,46
+195,Low,QLD,Call Centre,81
+150,Low,NSW,Digital,78
+112,Low,VIC,Digital,67
+157,Medium,VIC,In-Branch,56
+134,Low,SA,In-Branch,65
+188,High,SA,In-Branch,78
+142,High,VIC,Call Centre,37
+178,Low,SA,Call Centre,67
+180,Medium,NSW,Digital,26
+149,Low,SA,In-Branch,37
+120,High,VIC,In-Branch,80
+125,High,WA,Call Centre,24
+116,High,SA,In-Branch,71
+146,Low,SA,Digital,74
+164,Low,SA,Call Centre,61
+185,High,QLD,In-Branch,91
+128,Low,SA,In-Branch,82
+169,Low,QLD,In-Branch,71
+196,Low,SA,Digital,78
+176,Medium,NSW,In-Branch,11
+192,Medium,QLD,Call Centre,97
+174,Low,VIC,Call Centre,40
+174,High,WA,Call Centre,75
+158,Low,VIC,In-Branch,79
+126,Medium,NSW,In-Branch,13
+155,Medium,WA,Call Centre,14
+104,Low,WA,Digital,2
+169,Medium,QLD,Digital,15
+184,Low,VIC,Digital,13
+168,Medium,QLD,In-Branch,41
+118,Medium,NSW,Digital,10
+128,Low,NSW,Digital,32
+159,High,QLD,Digital,39
+192,Medium,NSW,Call Centre,39
+165,Low,VIC,Digital,21
+102,Medium,WA,In-Branch,46
+193,High,NSW,In-Branch,21
+147,Medium,NSW,In-Branch,85
+164,Medium,SA,In-Branch,53
+171,Medium,QLD,Digital,84
+169,Low,VIC,Call Centre,76
+127,Medium,NSW,In-Branch,79
+166,Medium,SA,Call Centre,60
+164,High,QLD,Digital,67
+104,Low,NSW,Call Centre,76
+175,Medium,WA,Digital,5
+142,High,SA,Digital,42
+131,Low,NSW,In-Branch,38
+192,High,WA,Call Centre,24
+184,Medium,VIC,In-Branch,99
+140,Low,NSW,Call Centre,31
+105,Medium,WA,Call Centre,83
+167,High,WA,In-Branch,91
+123,High,NSW,In-Branch,16
+129,High,QLD,Digital,75
+193,Low,WA,Call Centre,24
+134,Low,VIC,In-Branch,83
+187,High,VIC,Digital,46
+161,Medium,SA,Call Centre,20
+138,Medium,WA,Call Centre,40
+151,Medium,SA,Digital,5
+155,Low,WA,Call Centre,10
+196,Low,VIC,Digital,22
+171,High,SA,Digital,30
+180,High,SA,Call Centre,99
+125,High,WA,Digital,39
+146,Low,SA,Call Centre,42
+149,Medium,VIC,Call Centre,81
+148,High,SA,Call Centre,3
+114,Medium,SA,In-Branch,48
+168,Medium,SA,In-Branch,37
+162,High,VIC,Call Centre,35
+104,Medium,QLD,Call Centre,66
+127,Low,SA,In-Branch,4
+144,Medium,WA,In-Branch,56
+168,Medium,VIC,In-Branch,20
+106,High,SA,In-Branch,49
+142,Medium,VIC,Call Centre,61
+124,High,NSW,Call Centre,20
+156,High,QLD,In-Branch,93
+152,Medium,NSW,Digital,79
+147,High,SA,Call Centre,44
+148,High,VIC,Digital,82
+131,Low,SA,Call Centre,44
+124,Low,SA,Digital,36
+184,Low,WA,In-Branch,65
+154,High,QLD,In-Branch,99
+104,High,WA,Call Centre,12
+138,High,QLD,Digital,64
+158,Low,VIC,In-Branch,9
+159,Low,QLD,In-Branch,14
+129,Medium,QLD,In-Branch,62
+162,Medium,WA,Digital,98
+103,Medium,VIC,Call Centre,78
+102,Low,QLD,In-Branch,47
+101,Low,QLD,Call Centre,59
+150,Medium,NSW,Call Centre,8
+114,High,QLD,In-Branch,53
+129,Medium,SA,Call Centre,5
+161,Low,SA,Call Centre,42
+124,Low,WA,Call Centre,33
+123,Medium,QLD,In-Branch,5
+188,High,VIC,Digital,35
+140,Medium,NSW,Call Centre,7
+104,Low,NSW,In-Branch,36
+114,High,WA,In-Branch,59
+164,Medium,WA,In-Branch,19
+127,Medium,QLD,Call Centre,98
+102,High,WA,Call Centre,79
+142,Low,NSW,Call Centre,29
+191,Medium,NSW,In-Branch,48
+179,High,SA,In-Branch,87
+187,High,WA,In-Branch,51
+119,Medium,WA,Call Centre,93
+167,High,NSW,In-Branch,90
+124,Low,QLD,In-Branch,71
+182,Low,NSW,Digital,86
+138,Medium,QLD,Digital,50
+111,High,QLD,Call Centre,85
+100,Medium,WA,Call Centre,5
+149,High,WA,Digital,29
+132,High,QLD,Call Centre,28
+194,Medium,SA,In-Branch,86
+105,Medium,VIC,In-Branch,1
+154,Medium,VIC,In-Branch,68
+100,Medium,WA,In-Branch,50
+158,Low,WA,In-Branch,86
+127,Medium,WA,Digital,68
+151,High,WA,Call Centre,12
+162,Medium,QLD,In-Branch,75
+161,Low,WA,In-Branch,39
+194,Low,QLD,In-Branch,94
+176,High,QLD,In-Branch,23
+159,Medium,SA,Call Centre,14
+138,High,NSW,Call Centre,29
+146,High,WA,In-Branch,62
+131,Medium,NSW,Digital,46
+150,High,QLD,In-Branch,91
+137,High,SA,Call Centre,59
+139,Medium,NSW,Call Centre,9
+194,High,SA,In-Branch,94
+100,Low,QLD,Call Centre,71
+149,Low,WA,Call Centre,77
+100,High,NSW,Call Centre,30
+160,High,WA,Digital,17
+126,High,NSW,In-Branch,67
+164,High,QLD,In-Branch,78
+147,Medium,WA,Call Centre,62
+152,Low,NSW,Digital,88
+136,High,WA,Digital,16
+187,Low,WA,Digital,31
+157,Low,WA,In-Branch,0
+199,Low,WA,In-Branch,36
+126,Low,VIC,Digital,37
+155,Medium,VIC,In-Branch,6
+157,High,SA,Digital,10
+182,Medium,NSW,In-Branch,68
+121,Low,SA,Digital,93
+169,Low,VIC,In-Branch,49
+199,Low,VIC,In-Branch,87
+154,High,SA,In-Branch,0
+184,Low,NSW,Call Centre,56
+121,Medium,SA,Digital,92
+184,Low,SA,Digital,92
+140,Medium,NSW,Digital,10
+114,Medium,SA,Call Centre,55
+169,Medium,QLD,In-Branch,2
+118,High,WA,In-Branch,28
+134,Low,VIC,Call Centre,84
+124,Low,WA,In-Branch,97
+174,Medium,VIC,Digital,69
+114,High,NSW,Call Centre,11
+174,High,WA,Call Centre,60
+115,Medium,VIC,Digital,17
+123,High,VIC,In-Branch,63
+165,High,VIC,Call Centre,51
+162,Medium,QLD,In-Branch,75
+131,Low,NSW,Digital,50
+100,Low,SA,Digital,87
+144,Medium,WA,In-Branch,82
+154,High,NSW,Digital,15
+167,High,WA,Call Centre,40
+165,Medium,QLD,Call Centre,5
+140,High,SA,Call Centre,98
+124,Low,SA,Digital,18
+195,Medium,VIC,Call Centre,61
+127,Low,WA,In-Branch,54
+138,Medium,WA,In-Branch,68
+149,Medium,QLD,Digital,20
+183,Medium,VIC,In-Branch,2
+126,High,VIC,Digital,19
+112,Low,WA,Digital,2
+185,Medium,NSW,Call Centre,47
+157,High,WA,In-Branch,94
+123,Medium,WA,In-Branch,97
+141,Low,NSW,In-Branch,63
+133,Low,WA,Call Centre,9
+128,High,NSW,Call Centre,11
+144,Low,QLD,In-Branch,6
+186,High,NSW,Digital,51
+175,Low,NSW,In-Branch,78
+103,Low,SA,Call Centre,18
+102,Medium,VIC,In-Branch,69
+151,High,VIC,Call Centre,92
+191,Low,QLD,In-Branch,60
+199,Low,SA,In-Branch,96
+187,Low,QLD,In-Branch,2
+166,Medium,VIC,In-Branch,37
+165,High,QLD,Digital,35
+164,High,WA,Digital,67
+154,Low,SA,Digital,74
+163,Medium,WA,In-Branch,91
+125,Low,NSW,Digital,93
+129,High,QLD,Digital,67
+197,High,WA,Call Centre,63
+190,Medium,QLD,Call Centre,93
+155,Low,SA,In-Branch,68
+174,Low,QLD,Digital,33
+122,High,WA,In-Branch,92
+167,Medium,NSW,Call Centre,71
+140,Low,NSW,Call Centre,64
+162,Low,NSW,Digital,43
+126,Medium,WA,Digital,11
+154,Low,QLD,Call Centre,51
+152,High,NSW,In-Branch,11
+181,Medium,NSW,Call Centre,86
+139,Medium,WA,Digital,56
+159,Low,NSW,Digital,36
+141,High,QLD,Digital,11
+113,Medium,NSW,Digital,83
+158,Medium,WA,In-Branch,14
+160,Medium,VIC,Digital,23
+173,Low,SA,Digital,82
+153,Medium,SA,Digital,30
+105,Low,QLD,In-Branch,98
+191,Low,NSW,Call Centre,1
+194,Medium,VIC,Call Centre,37
+189,Low,VIC,Digital,79
+199,Medium,SA,In-Branch,42
+163,High,SA,In-Branch,43
+157,High,QLD,In-Branch,57
+134,Medium,WA,Call Centre,32
+171,Low,VIC,Call Centre,31
+129,High,QLD,Digital,83
+147,High,WA,Call Centre,79
+144,High,SA,In-Branch,9
+128,High,VIC,Digital,7
+101,High,SA,In-Branch,40
+100,Low,NSW,Digital,91
+149,Low,SA,In-Branch,3
+108,High,WA,Call Centre,60
+173,High,NSW,In-Branch,91
+143,High,SA,Digital,19
+136,High,WA,Call Centre,23
+192,Low,NSW,Call Centre,41
+193,Medium,NSW,Call Centre,51
+132,Medium,VIC,Call Centre,67
+100,Medium,WA,In-Branch,13
+159,High,WA,Digital,4
+173,Low,SA,Digital,17
+142,Medium,VIC,Call Centre,8
+100,Low,SA,In-Branch,58
+146,Medium,NSW,Call Centre,22
+132,Medium,QLD,In-Branch,4
+191,Low,VIC,Call Centre,68
+137,Medium,VIC,In-Branch,36
+123,High,VIC,Call Centre,49
+120,Low,VIC,In-Branch,63
+108,Low,NSW,Call Centre,87
+141,High,QLD,In-Branch,85
+114,High,WA,Digital,25
+164,High,QLD,In-Branch,27
+180,Low,VIC,In-Branch,37
+180,High,QLD,In-Branch,73
+151,Medium,VIC,Digital,54
+115,High,NSW,Digital,57
+111,Low,NSW,Call Centre,43
+148,Medium,SA,In-Branch,0
+111,Low,SA,Call Centre,26
+167,Low,SA,Call Centre,71
+198,Medium,SA,Call Centre,20
+156,High,QLD,In-Branch,0
+167,Medium,WA,Digital,26
+176,Low,WA,In-Branch,83
+184,High,WA,Digital,20
+134,Low,SA,Digital,5
+145,Low,SA,Digital,99
+115,Medium,QLD,In-Branch,69
+117,High,NSW,Digital,98
+176,High,WA,In-Branch,20
+158,Medium,VIC,In-Branch,21
+123,Medium,QLD,Digital,92
+177,High,QLD,Call Centre,20
+199,High,NSW,In-Branch,45
+179,Low,VIC,Call Centre,44
+133,Low,NSW,Digital,4
+157,Medium,NSW,Digital,93
+173,Low,QLD,Call Centre,64
+171,Low,VIC,Call Centre,54
+153,High,QLD,Call Centre,36
+133,High,NSW,Digital,71
+132,Low,VIC,Call Centre,24
+115,High,NSW,Call Centre,98
+103,Low,QLD,Digital,81
+127,Medium,QLD,Digital,33
+137,Low,SA,Call Centre,67
+189,Medium,VIC,Digital,64
+149,Low,VIC,Digital,40
+147,Medium,VIC,In-Branch,78
+191,Low,NSW,In-Branch,6
+189,Low,WA,Digital,22
+102,High,SA,Digital,69
+154,High,NSW,Call Centre,68
+111,Low,NSW,Digital,30
+112,Medium,WA,Call Centre,83
+174,High,QLD,In-Branch,15
+179,High,NSW,In-Branch,58
+164,High,NSW,In-Branch,89
+175,Medium,VIC,Digital,97
+111,High,WA,Call Centre,21
+115,High,SA,Digital,43
+139,Medium,SA,Digital,62
+182,Low,VIC,In-Branch,78
+154,Medium,WA,In-Branch,50
+161,Low,QLD,Call Centre,65
+156,Low,WA,Digital,64
+148,Medium,NSW,Call Centre,59
+131,Low,NSW,Call Centre,12
+164,High,SA,In-Branch,53
+135,High,SA,Call Centre,68
+174,High,SA,Call Centre,48
+181,Medium,SA,In-Branch,70
+194,Low,VIC,In-Branch,44
+135,Low,VIC,Call Centre,77
+146,Medium,VIC,Call Centre,55
+190,High,WA,In-Branch,95
+190,Medium,NSW,Call Centre,30
+176,High,WA,Digital,71
+137,High,WA,Digital,59
+183,Medium,QLD,Call Centre,22
+170,Medium,NSW,Call Centre,18
+190,Medium,WA,Digital,73
+154,Low,WA,In-Branch,27
+167,Low,SA,In-Branch,18
+126,High,QLD,In-Branch,99
+102,Medium,QLD,Digital,22
+141,Low,VIC,Call Centre,82
+168,Medium,VIC,In-Branch,44
+174,Low,NSW,In-Branch,49
+199,Low,VIC,In-Branch,5
+131,Low,QLD,Digital,51
+172,Medium,SA,In-Branch,48
+138,High,SA,Call Centre,27
+119,High,NSW,Call Centre,2
+116,Medium,VIC,In-Branch,78
+183,Low,NSW,Call Centre,48
+199,Low,VIC,In-Branch,89
+115,Medium,QLD,In-Branch,65
+164,Medium,SA,Call Centre,31
+160,Medium,QLD,In-Branch,99
+170,Medium,NSW,Call Centre,21
+114,High,QLD,Call Centre,96
+138,Low,WA,In-Branch,71
+118,Medium,VIC,Digital,46
+152,High,WA,Digital,57
+194,Medium,VIC,In-Branch,74
+125,Low,SA,In-Branch,9
+191,Medium,NSW,Digital,48
+141,Low,WA,Call Centre,54
+158,High,QLD,Digital,27
+138,High,WA,Call Centre,32
+148,Medium,WA,Call Centre,14
+187,High,SA,In-Branch,97
+141,High,WA,In-Branch,7
+154,Low,NSW,Digital,37
+184,Low,VIC,Digital,15
+175,Medium,SA,Digital,99
+191,Low,NSW,Digital,82
+185,High,SA,In-Branch,77
+101,Medium,WA,In-Branch,98
+109,Medium,WA,Digital,15
+186,Low,NSW,Call Centre,87
+112,Medium,NSW,Call Centre,31
+197,Medium,VIC,Digital,42
+148,Medium,NSW,In-Branch,51
+153,Medium,QLD,Call Centre,15
+169,High,VIC,Digital,58
+156,Low,QLD,In-Branch,38
+159,High,SA,Digital,35
+192,Low,VIC,Digital,10
+129,High,VIC,Call Centre,41
+102,Low,VIC,Digital,87
+130,Medium,QLD,Digital,67
+134,Low,VIC,In-Branch,45
+158,High,QLD,Call Centre,99
+176,High,VIC,In-Branch,41
+185,High,NSW,Digital,2
+176,Medium,QLD,Digital,60
+180,High,QLD,Digital,18
+187,Low,QLD,Call Centre,99
+174,Medium,QLD,In-Branch,77
+180,Medium,QLD,Call Centre,27
+185,High,SA,Digital,64
+189,Medium,SA,Call Centre,23
+119,Low,WA,Call Centre,22
+198,High,NSW,In-Branch,79
+123,High,NSW,In-Branch,22
+116,Medium,QLD,In-Branch,61
+132,Low,SA,Digital,13
+165,High,VIC,In-Branch,82
+190,Medium,WA,Digital,24
+113,Medium,WA,Digital,96
+130,Medium,VIC,In-Branch,37
+135,Medium,SA,Call Centre,93
+144,High,QLD,Digital,92
+131,Medium,VIC,Digital,89
+141,Low,QLD,Digital,69
+156,High,NSW,Call Centre,39
+186,High,VIC,Digital,60
+101,Medium,WA,Call Centre,62
+115,High,VIC,Call Centre,47
+131,High,NSW,Digital,80
+166,Low,SA,Call Centre,35
+177,Low,QLD,Call Centre,92
+100,Medium,VIC,Call Centre,7
+100,High,WA,Digital,2
+110,Medium,VIC,Call Centre,88
+116,High,SA,In-Branch,95
+111,Medium,QLD,Call Centre,9
+160,Low,NSW,Call Centre,43
+189,Low,VIC,Call Centre,49
+122,Medium,NSW,Call Centre,40
+163,High,WA,Digital,56
+169,Medium,QLD,Digital,85
+167,Medium,SA,Call Centre,52
+119,Medium,QLD,Call Centre,66
+170,Low,WA,In-Branch,93
+151,Medium,NSW,In-Branch,20
+117,High,VIC,In-Branch,51
+155,Low,NSW,Call Centre,62
+116,Medium,NSW,Digital,98
+125,Medium,WA,Call Centre,78
+198,Low,WA,Digital,44
+154,Medium,SA,Call Centre,4
+141,Low,SA,Call Centre,28
+181,Low,WA,In-Branch,99
+124,Medium,QLD,Call Centre,34
+110,High,NSW,In-Branch,51
+126,Medium,VIC,In-Branch,68
+155,High,VIC,Call Centre,21
+194,High,VIC,In-Branch,33
+182,Low,WA,Call Centre,79
+100,High,SA,In-Branch,81
+103,Low,NSW,In-Branch,34
+162,Medium,QLD,Digital,34
+198,High,WA,In-Branch,86
+128,Low,WA,Digital,76
+110,High,WA,Digital,90
+181,Medium,VIC,Call Centre,32
+172,Low,SA,Call Centre,2
+161,Low,QLD,In-Branch,32
+121,Medium,QLD,In-Branch,33
+147,Medium,WA,Call Centre,9
+191,Low,WA,In-Branch,71
+178,Medium,VIC,Call Centre,23
+124,Low,QLD,Call Centre,71
+182,Medium,NSW,Call Centre,11
+134,Medium,SA,Call Centre,86
+183,Medium,VIC,Call Centre,35
+192,High,SA,Call Centre,24
+175,Medium,SA,Call Centre,73
+182,High,SA,Digital,85
+164,High,WA,Digital,46
+138,High,SA,Call Centre,23
+145,Medium,WA,Digital,43
+136,High,WA,In-Branch,23
+101,Low,SA,Call Centre,88
+140,Low,WA,Digital,6
+195,Medium,VIC,In-Branch,20
+196,High,QLD,Digital,46
+124,Low,QLD,Digital,32
+164,Low,WA,Digital,42
+129,Medium,NSW,In-Branch,19
+162,High,WA,Call Centre,64
+198,Low,WA,Digital,62
+144,Medium,SA,In-Branch,4
+166,Medium,SA,Call Centre,85
+118,Low,SA,Call Centre,56
+177,High,VIC,Call Centre,31
+172,Medium,NSW,In-Branch,48
+104,Low,QLD,Digital,71
+119,Medium,NSW,Digital,49
+109,Medium,WA,In-Branch,12
+193,Low,WA,Digital,17
+164,Medium,SA,In-Branch,29
+138,Low,NSW,Digital,51
+122,Medium,WA,Digital,3
+125,Medium,QLD,In-Branch,30
+127,Low,NSW,Call Centre,90
+117,Medium,VIC,Call Centre,45
+161,Low,SA,Call Centre,23
+158,High,NSW,Digital,97
+189,High,VIC,In-Branch,81
+175,Low,NSW,In-Branch,18
+170,High,VIC,Call Centre,93
+168,Low,SA,In-Branch,66
+130,High,WA,Call Centre,20
+108,High,QLD,Call Centre,48
+160,Medium,SA,Call Centre,21
+115,Low,QLD,Call Centre,62
+119,High,SA,Digital,29
+116,Medium,QLD,In-Branch,68
+196,Medium,WA,In-Branch,41
+192,Low,QLD,Digital,61
+110,Low,VIC,Call Centre,30
+158,Low,NSW,Call Centre,2
+129,High,NSW,Call Centre,8
+177,Medium,WA,Digital,76
+139,Medium,NSW,Call Centre,6
+199,Low,QLD,In-Branch,42
+143,Medium,VIC,Digital,45
+158,Low,NSW,Call Centre,51
+106,High,WA,Digital,89
+106,High,SA,Digital,36
+151,Medium,WA,Digital,23
+192,Medium,NSW,Call Centre,0
+141,Low,WA,In-Branch,1
+177,Low,WA,Call Centre,42
+138,Low,SA,In-Branch,26
+120,Medium,VIC,Digital,48
+127,High,NSW,Digital,48
+185,High,QLD,Call Centre,72
+199,High,NSW,In-Branch,18
+114,Medium,SA,Digital,18
+198,Medium,VIC,Call Centre,13
+116,High,QLD,In-Branch,7
+160,Medium,SA,Digital,3
+114,Low,QLD,Call Centre,20
+133,Medium,WA,Digital,54
+153,Medium,VIC,Digital,50
+120,Low,WA,Digital,66
+180,Medium,QLD,In-Branch,56
+154,Medium,WA,Digital,80
+194,Low,NSW,Digital,78
+142,High,SA,In-Branch,57
+114,High,WA,Call Centre,12
+121,Medium,WA,Call Centre,40
+107,High,VIC,Call Centre,57
+157,Low,VIC,Call Centre,82
+150,Low,WA,Digital,19
+157,High,WA,In-Branch,66
+133,High,VIC,Call Centre,68
+109,Medium,NSW,In-Branch,87
+101,Medium,VIC,In-Branch,22
+172,Medium,SA,Digital,41
+105,High,WA,Digital,60
+144,High,QLD,In-Branch,12
+127,High,SA,Digital,65
+122,High,VIC,Digital,18
+103,High,SA,In-Branch,82
+159,Medium,NSW,Call Centre,3
+183,Low,WA,Digital,63
+147,High,SA,Call Centre,21
+156,High,WA,Digital,39
+175,Low,VIC,Digital,8
+151,Medium,QLD,Call Centre,65
+168,High,QLD,Call Centre,41
+150,High,SA,Call Centre,32
+108,Medium,QLD,Call Centre,54
+135,Low,SA,Call Centre,48
+153,Medium,QLD,Digital,18
+179,High,VIC,Call Centre,31
+117,Medium,NSW,In-Branch,98
+185,High,VIC,Digital,51
+159,Medium,SA,Digital,60
+166,High,VIC,Call Centre,98
+191,Low,WA,In-Branch,15
+171,High,WA,In-Branch,20
+126,Low,VIC,Call Centre,17
+100,Low,SA,Call Centre,39
+196,Low,SA,Call Centre,66
+108,Low,QLD,In-Branch,77
+163,Low,QLD,Call Centre,62
+158,High,NSW,Digital,12
+171,Medium,QLD,In-Branch,47
+158,High,WA,Call Centre,34
+192,High,WA,In-Branch,93
+127,Medium,SA,Call Centre,19
+177,Medium,QLD,In-Branch,48
+120,Medium,QLD,In-Branch,9
+163,High,NSW,Digital,27
+117,Low,VIC,In-Branch,69
+188,Medium,QLD,In-Branch,37
+184,Low,QLD,In-Branch,87
+168,High,NSW,Digital,62
+112,Low,VIC,In-Branch,24
+111,Medium,VIC,In-Branch,57
+110,Medium,QLD,Call Centre,10
+156,High,QLD,In-Branch,74
+177,Low,SA,In-Branch,8
+158,Medium,QLD,Call Centre,3
+111,High,NSW,In-Branch,80
+132,High,SA,In-Branch,28
+192,Medium,QLD,In-Branch,53
+160,Medium,SA,Call Centre,38
+175,High,NSW,In-Branch,25
+139,Medium,QLD,Call Centre,36
+169,Medium,SA,Digital,8
+133,High,SA,Digital,56
+161,Low,QLD,Digital,94
+197,Low,WA,In-Branch,10
+133,Medium,NSW,In-Branch,36
+106,Low,NSW,Digital,85
+130,Low,WA,In-Branch,39
+191,Medium,SA,Digital,28
+114,High,VIC,Call Centre,49
+197,Low,NSW,Digital,99
+190,Medium,WA,In-Branch,33
+199,Low,SA,Digital,43
+187,Low,QLD,Call Centre,91
+184,High,VIC,Digital,28
+167,Low,WA,Call Centre,65
+186,Medium,QLD,In-Branch,94
+169,Low,QLD,In-Branch,46
+113,High,QLD,Digital,30
+131,Medium,VIC,Call Centre,78
+179,High,WA,In-Branch,65
+169,Medium,VIC,In-Branch,32
+152,Low,WA,Digital,10
+181,Low,WA,In-Branch,90
+195,Medium,SA,Call Centre,13
+188,High,NSW,In-Branch,10
+186,Medium,NSW,Digital,60
+157,Medium,WA,Call Centre,61
+117,High,VIC,Call Centre,21
+162,Medium,SA,In-Branch,48
+168,High,QLD,Call Centre,87
+181,Low,QLD,Digital,76
+145,Low,VIC,In-Branch,35
+154,Medium,QLD,In-Branch,93
+163,Low,QLD,Digital,16
+170,High,SA,Digital,9
+159,Low,SA,Digital,12
+185,High,WA,Call Centre,14
+106,High,WA,Call Centre,44
+144,Medium,NSW,Digital,13
+130,High,VIC,Digital,92
+152,High,QLD,Digital,10
+122,Low,QLD,In-Branch,26
+122,Medium,VIC,Call Centre,92
+142,Medium,QLD,In-Branch,62
+153,Medium,VIC,Call Centre,0
+149,Low,QLD,In-Branch,91
+190,High,VIC,Call Centre,71
+140,Medium,SA,Digital,45
+177,Medium,VIC,Call Centre,51
+108,High,QLD,Call Centre,52
+147,High,QLD,Digital,69
+112,Low,SA,Call Centre,11
+188,Low,WA,In-Branch,65
+123,High,NSW,In-Branch,50
+137,High,VIC,Call Centre,84

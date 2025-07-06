@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: dim_time
+    description: "Dimension table for time-related attributes."
+    columns:
+      - name: time_id
+        description: "Primary key for the time dimension."
+      - name: date
+        description: "The calendar date."
+      - name: day
+        description: "Day of the month."
+      - name: month
+        description: "Month of the year."
+      - name: year
+        description: "Year."
+      - name: quarter
+        description: "Quarter of the year."
+      - name: week
+        description: "Week of the year."
+      - name: day_of_week
+        description: "Day of the week."
+

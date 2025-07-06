@@ -1,0 +1,10 @@
+underwriter_id,name,license_status
+1,Underwriter 1,Suspended
+2,Underwriter 2,Suspended
+3,Underwriter 3,Active
+4,Underwriter 4,Active
+5,Underwriter 5,Suspended
+6,Underwriter 6,Suspended
+7,Underwriter 7,Active
+8,Underwriter 8,Suspended
+9,Underwriter 9,Revoked

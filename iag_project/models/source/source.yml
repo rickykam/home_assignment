@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: raw  
+    database: main            
+    schema: main             
+    tables:
+      - name: policies   
+      - name: policy_events
+      - name: customers
+      - name: underwriters
+
+# Additional country 
+
+# sources:
+#  - name: raw_nz    
+#    database: main            
+#    schema: main             
+#    tables:
+#      - name: policies   
+#      - name: policy_events
+#      - name: customers
+#      - name: underwriters
+
+

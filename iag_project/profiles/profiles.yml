@@ -1,0 +1,11 @@
+iag_project:
+  target: dev
+  outputs:
+    dev:
+      type: sqlite
+      threads: 1
+      database: 'iag_database.db'  # Arbitrary, required by dbt
+      schema: 'main'        # For SQLite, this is usually 'main'
+      schemas_and_paths:
+        main: '/Users/rickykam/Documents/IAG/iag_project/sqlite/iag_database.db'
+      schema_directory: '/Users/rickykam/Documents/IAG/iag_project/sqlite'
