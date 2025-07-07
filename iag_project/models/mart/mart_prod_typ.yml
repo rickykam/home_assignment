@@ -1,0 +1,18 @@
+version: 1
+
+model:
+  name: mart_prod_typ
+  description: Aggregates new and lapsed policies by year, month, and product_type.
+  columns:
+    - name: year
+      type: integer
+    - name: month
+      type: integer
+    - name: product_type
+      type: string
+    - name: tot_new_policies
+      type: integer
+      description: Total new policies (default 0 if missing)
+    - name: tot_lapsed_policies
+      type: integer
+      description: Total lapsed policies (default 0 if missing)

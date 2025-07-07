@@ -1,43 +1,66 @@
 version: 2
 
+
+
 models:
-  - name: fct_pol_info_event
-    description: Fact table for policy information events.
+  - name: int_pol_info_event
+    
+    description: "{{ doc('int_pol_info_event') }}"
+      
+        
     columns:
       - name: extract_date
+        type: date
         description: The date the record was extracted.
       - name: customer_id
+        type: text
+        tests:
+          - not_null
         description: Identifier for the customer.
       - name: policy_id
-        description: Foreign key referencing the policy.
+        type: text
+        description: Unique identifier for the policy.
         tests:
           - not_null
       - name: underwriter_id
+        type: text
         description: Identifier for the underwriter.
+        tests:
+          - not_null
       - name: product_type
+        type: text
         description: Type of insurance product.
       - name: channel
+        type: text
         description: Channel through which the policy was sold.
       - name: start_date
+        type: date
         description: Policy start date.
       - name: end_date
+        type: date
         description: Policy end date.
       - name: status
+        type: text
         description: Current status of the policy.
       - name: event_type
+        type: text
         description: Type of the policy event (e.g., created, updated, cancelled).
       - name: event_date
+        type: date
         description: Date when the event occurred.
       - name: channel_override
+        type: text
         description: Overridden channel for the event, if applicable.
       - name: country_code
+        type: text
         description: Country code for the policy, defaulting to 'AU'.
       - name: policy_lifetime_days
+        type: integer
         description: Number of days the policy has been active, calculated as the difference between end_date and start_date.
     tests:
 
       - dbt_utils.expression_is_true:
           name: policy_lifetime_positive
-          description: Ensure that the policy lifetime is positive (end_date must be after start_date).
+          description: Identify backdated cancellations
           expression: "julianday(end_date) - julianday(start_date) > 0"
           severity: warn

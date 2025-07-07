@@ -16,11 +16,11 @@ filter_result as (
 
 SELECT 
 
-    policy_id,
-    upper(event_type) as event_type,
-    date(event_date) as event_date,
-    upper(channel_override) as channel_override,
-    country_code
+    cast(policy_id as text) as policy_id,
+    cast(upper(event_type) as text) as event_type,
+    cast(date(event_date) as date) as event_date,
+    cast(upper(channel_override) as text) as channel_override,
+    cast(upper(country_code) as text) as country_code
 
 FROM policy_events
 
